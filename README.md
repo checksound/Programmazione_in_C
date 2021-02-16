@@ -32,9 +32,9 @@
 
 [I puntatori e l'allocazione dinamica di memoria](./es16_ris.pdf)
 
-[](./es17_ris.pdf)
+[Problem solving elementare su dati scalari](./es17_ris.pdf)
 
-[](./es18_ris.pdf)
+[Problem solving elementare su dati vettoriali](./es18_ris.pdf)
 
-[](./es19_ris.pdf)
+[Problem solving avanzato](./es19_ris.pdf)
 
